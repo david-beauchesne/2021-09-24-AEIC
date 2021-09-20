@@ -51,7 +51,56 @@ class: title-slide, middle
 
 #### 2021-09-24
 
+<!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
+<!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
+<!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
+<!-- Contexte -->
+<!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
+<!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
+<!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
+---
 
+class: inverse, center, middle
+
+# Mise en contexte
+
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
+
+
+---
+
+# Mise en contexte
+
+.pull-left[
+- Écologiste
+
+- Travaux centrés sur:
+  - Interactions entre espèces et humains
+  - Conservation et gestion
+  - Effets environnementaux
+  - Gestion environnementale
+]
+
+
+---
+
+# Mise en contexte
+
+.pull-left[
+- Écologiste
+
+- Travaux centrés sur:
+  - Interactions entre espèces et humains
+  - Conservation et gestion
+  - Effets environnementaux
+  - Gestion environnementale
+]
+
+.pull-right[
+- Peu d'expérience du côté législatif et politique
+
+- Expérience n'est pas centrée sur les processus d'évaluation d'impacts environnementaux
+]
 
 <!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
 <!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
