@@ -575,24 +575,6 @@ class: inverse, center, middle
 ## Atlantique
 
 - Plateau néo-écossais
-- Labrador et Terre-Neuve
-
-]
-
-.pull-right2[
-<center><img src="figures/newfoundland-labrador.png" width="85%"></img></center>
-]
-
----
-
-# Autres projets
-
-.pull-left2[
-## Atlantique
-
-- Plateau néo-écossais
-- Labrador et Terre-Neuve
-
 
 ## Saguenay - Saint-Laurent
 
@@ -640,6 +622,35 @@ Collaboration / mobilisation :
 
 
 <center><img src="img/portee.png" width="100%"></img></center>
+
+---
+
+# Autres projets
+
+## Saguenay - Saint-Laurent
+
+***Préliminaire***
+
+.pull-left[
+<center><img src="Figures/tc_cumulative_st.png" width="100%"></img></center>
+]
+
+--
+.pull-right[
+<center><img src="Figures/tc_cumulative_cv.png" width="100%"></img></center>
+]
+
+---
+
+# Autres projets
+
+## Saguenay - Saint-Laurent
+
+***Préliminaire***
+
+<center><img src="Figures/tc_cumulative_exposure.png" width="80%"></img></center>
+
+
 
 
 <!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
