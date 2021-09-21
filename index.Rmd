@@ -440,6 +440,16 @@ class: inverse, center, middle
 
 <center><img src="figures/cumul.png" width="100%"></img></center>
 
+---
+
+# Système du Saint-Laurent
+
+## Groupes ou espèces
+
+<span class="br2"></span>
+
+<center><img src="figures/groundfish.png" width="100%"></img></center>
+
 
 ---
 
