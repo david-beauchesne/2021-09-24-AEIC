@@ -642,12 +642,12 @@ Collaboration / mobilisation :
 ***Préliminaire***
 
 .pull-left[
-<center><img src="Figures/tc_cumulative_st.png" width="100%"></img></center>
+<center><img src="figures/tc_cumulative_st.png" width="100%"></img></center>
 ]
 
 --
 .pull-right[
-<center><img src="Figures/tc_cumulative_cv.png" width="100%"></img></center>
+<center><img src="figures/tc_cumulative_cv.png" width="100%"></img></center>
 ]
 
 ---
@@ -658,7 +658,7 @@ Collaboration / mobilisation :
 
 ***Préliminaire***
 
-<center><img src="Figures/tc_cumulative_exposure.png" width="80%"></img></center>
+<center><img src="figures/tc_cumulative_exposure.png" width="80%"></img></center>
 
 
 
